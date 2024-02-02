@@ -11,8 +11,9 @@ The Cozy Cup Cafe is designed to provide coffee enthusiasts with a delightful on
 ## About the Authors
 <img src="https://github.com/XTian-Clav.png" width="150" style=" border-radius: 50%;">
 
-**Name:** Christian Clavite  
-**Email:** xtianclavite@gmail.com
+**Name: Christian Clavite**  
+**Email: xtianclavite@gmail.com**
 
+**Connect with me** 
 <a href="https://www.facebook.com/christian.clavite"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="40">
 <a href="https://github.com/XTian-Clav"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="40">
