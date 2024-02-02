@@ -11,28 +11,12 @@ Cozy Cup Cafe is a web application that aims to create a virtual space where use
 
 ## Screen Captures
 
-### 1. Home Page
-![Home Page](images/home_page.png)
-*The welcoming home page invites users to explore the world of coffee with featured recipes and community highlights.*
-
-### 2. Recipe Library
-![Recipe Library](images/recipe_library.png)
-*Discover a wide range of coffee recipes, each accompanied by a detailed guide and user reviews.*
-
-### 3. Community Forum
-![Community Forum](images/community_forum.png)
-*Connect with fellow coffee lovers in the community forum, where discussions range from brewing tips to favorite coffee beans.*
-
-### 4. User Profile
-![User Profile](images/user_profile.png)
-*Create a personalized profile to showcase your coffee journey, favorite recipes, and interact with other users.*
-
 ## About the Authors
 
 <img src="https://github.com/Zhar-dev.png" alt="Zhar" width="150" style="border-radius: 50%;">
 
-**Name:** *Your Name*  
-**Email:** *Your Email*
+**Name:** **Al-nizar Wahab**  
+**Email:** **www.alnizarw07@gmail.com**
 
 Connect with me:
 <a href="https://www.facebook.com/zharwahab"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="40">
