@@ -1,0 +1,114 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>About us page</title>
+</head>
+<body>
+<div class="about-section">
+    <h1>About Us</h1>
+    <p>Hello. We are the creator of the Cozy Cup Cafe.</p>
+  </div>
+  
+  <h2 style="text-align:center">Our Team</h2>
+  <div class="row">
+    <div class="column">
+      <div class="card">
+        <img src="https://github.com/Zhar-dev.png" alt="Zar" style="width:50%">
+        <div class="container">
+          <h2>Al-nizar Wahab</h2>
+          <p class="title">Lead Programmer</p>
+          <p>Hello. I am Al-nizar Wahab, the lead Programmer of the team.</p>
+          <p>www.alnizarw07@gmail.com</p>
+          <p><button class="button">Contact</button></p>
+        </div>
+      </div>
+    </div>
+  
+    <div class="column">
+      <div class="card">
+        <img src="https://github.com/XTian-Clav.png" alt="Chris" style="width:50%">
+        <div class="container">
+          <h2>Christian Clavite</h2>
+          <p class="title">AssistantProgrammer</p>
+          <p>Hello. I am Christian Clavite, the assistant Programmer of the team.</p>
+          <p>xtianclavite@gmail.com</p>
+          <p><button class="button">Contact</button></p>
+        </div>
+      </div>
+    </div>
+
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+  text-align: center;
+  border-radius: 50%;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+</style>
+</body>
+</html>
