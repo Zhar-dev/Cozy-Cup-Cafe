@@ -29,7 +29,7 @@ Cozy Cup Cafe is a web application that aims to create a virtual space where use
 
 ## About the Authors
 
-<img src="https://github.com/Zhar-dev" alt="Zhar" width="150" style="border-radius: 50%;">
+<img src="https://github.com/Zhar-dev.png" alt="Zhar" width="150" style="border-radius: 50%;">
 
 **Name:** *Your Name*  
 **Email:** *Your Email*
