@@ -7,6 +7,8 @@ The Cozy Cup Cafe is designed to provide coffee enthusiasts with a delightful on
 - Brewer's Corner: Access a dedicated space for discovering new brewing techniques, recipes, and tips.
 - Brew Blog: Share your coffee adventures through engaging blog posts, photos, and reviews.
 ## Screen Captures
+### 2. About us
+![Home Page](Aboutus.png)
 
 ## About the Authors
 <img src="https://github.com/XTian-Clav.png" width="150" style=" border-radius: 50%;">
