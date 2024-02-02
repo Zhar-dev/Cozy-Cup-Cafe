@@ -10,6 +10,8 @@ Cozy Cup Cafe is a web application that aims to create a virtual space where use
 - **User Profiles:** Create a personalized profile to showcase your favorite recipes, brewing techniques, and coffee preferences.
 
 ## Screen Captures
+### 1. Home Page
+![Home Page](Home.png)
 
 ## About the Authors
 
