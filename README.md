@@ -4,8 +4,8 @@
 The Cozy Cup Cafe is designed to provide coffee enthusiasts with a delightful online customer experience and catering to their passion for coffee.
 
 ## Features
-- Brewer's Corner:
-- 
+- Brewer's Corner: Access a dedicated space for discovering new brewing techniques, recipes, and tips.
+- Brew Blog: Share your coffee adventures through engaging blog posts, photos, and reviews.
 ## Screen Captures
 
 ## About the Authors
