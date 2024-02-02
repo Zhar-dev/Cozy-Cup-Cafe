@@ -35,5 +35,5 @@ Cozy Cup Cafe is a web application that aims to create a virtual space where use
 **Email:** *Your Email*
 
 Connect with me:
-[![Facebook](images/facebook_icon.png)](https://www.facebook.com/your_facebook_profile)
-[![GitHub](images/github_icon.png)](https://github.com/your_github_profile)
+<a href="https://www.facebook.com/zharwahab"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="40">
+<a href="https://github.com/Zhar-dev"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="40">
